@@ -1,3 +1,3 @@
-module 12-Roman-to-integer
+module solving-leetcode-problems-in-go
 
 go 1.24.5
